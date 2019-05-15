@@ -1,0 +1,16 @@
+.incart {
+  display : flex;
+  background-color : rgb(243, 243, 243);
+  margin-left : 2em;
+  margin-right : 2em;
+  border-style : solid;
+  border-color :  black;
+  border-top: none;
+  min-width : 200px !important;
+  flex-basis: auto;
+  flex-grow: 1;
+}
+
+.incart p {
+  padding-left : 1em;
+}
